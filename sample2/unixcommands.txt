@@ -1,0 +1,38 @@
+
+
+
+             unix commands 
+ su {user name}
+sudo{ su}
+mkdir {foldername}
+cd {foldername}
+cd ..
+ls
+ls -la
+clear
+rmdir {dir name}
+touch {filename}
+vi filename
+esc:wq
+esc:q!
+esc:x
+rm {file name}
+ping {website you want to search}
+echo {text you want to write}
+chmod [value in numbers] filr or folder name
+history
+who am i    (who logged on)
+cat {filename}
+
+    used till the date 3112022
+    
+
+tail [file names]
+head [file names]
+diff
+mv [source file] [ destination file]
+     
+
+     used till the date 4112022
+
+

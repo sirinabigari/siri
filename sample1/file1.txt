@@ -1,0 +1,10 @@
+
+
+
+
+      this is the first file in my vi editor
+      and linux machine 
+      test  for insert mode 
+      test for esc:x
+
+
